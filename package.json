@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
-    
-    
+    "start": "webpack-cli serve --open --mode development"    
   },
   "keywords": [
     "RicknMorty",
