@@ -1,6 +1,9 @@
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin')
+<<<<<<< HEAD
 const CopyWebpackPlugin = require('copy-webpack-plugin')
+=======
+>>>>>>> 47e8455e8da0d5e8e222c146de5a54ea282204fb
 
 module.exports = {
     entry: './src/index.js',
