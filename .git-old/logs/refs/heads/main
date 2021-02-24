@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 fe019618c4e9072103134ba7055bbaea1fef589c Jose Zarate <pepzarate@gmail.com> 1613653011 -0600	commit (initial): Preparación del proyecto
+fe019618c4e9072103134ba7055bbaea1fef589c fe019618c4e9072103134ba7055bbaea1fef589c Jose Zarate <pepzarate@gmail.com> 1613653051 -0600	Branch: renamed refs/heads/master to refs/heads/main
+fe019618c4e9072103134ba7055bbaea1fef589c 479c05b93d8d029ee44a1e914d7e446cc6af0475 Jose Zarate <pepzarate@gmail.com> 1613653173 -0600	commit: Readme
+479c05b93d8d029ee44a1e914d7e446cc6af0475 b296ff2629ee86d997228886eedd33f4e9d571d4 Jose Zarate <pepzarate@gmail.com> 1613792597 -0600	commit: Routes
+b296ff2629ee86d997228886eedd33f4e9d571d4 57a9ae272e5ad40effa2820b9b022ed63c2f7676 Jose Zarate <pepzarate@gmail.com> 1613792620 -0600	commit: Routes
+57a9ae272e5ad40effa2820b9b022ed63c2f7676 47e8455e8da0d5e8e222c146de5a54ea282204fb Jose Zarate <pepzarate@gmail.com> 1613997008 -0600	commit: manejo de hash y fetch
